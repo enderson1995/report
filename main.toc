@@ -2,8 +2,11 @@
 \contentsline {section}{INTRODUCCI\IeC {\'O}N}{1}{section*.6}% 
 \contentsline {section}{RESE\IeC {\~N}A HIST\IeC {\'O}RICA}{2}{section*.7}% 
 \contentsline {section}{PLANTEAMIENTO DEL PROBLEMA}{4}{section*.8}% 
+\contentsline {subsection}{\numberline {2.1}Planteamiento del problema}{4}{subsection.2.1}% 
 \contentsline {section}{MARCO TE\IeC {\'O}RICO}{5}{section*.9}% 
+\contentsline {subsection}{\numberline {3.1}ihafoihsaf}{5}{subsection.3.1}% 
 \contentsline {section}{MARCO METODOL\IeC {\'O}GICO}{6}{section*.10}% 
+\contentsline {subsection}{\numberline {4.1}iausciubsaciub}{6}{subsection.4.1}% 
 \contentsline {section}{PROCESO DE AN\IeC {\'A}LISIS Y C\IeC {\'A}LCULO}{7}{section*.11}% 
 \contentsline {section}{RESULTADOS}{8}{section*.12}% 
 \contentsline {section}{AN\IeC {\'A}LISIS DE RESULTADOS}{9}{section*.13}% 
