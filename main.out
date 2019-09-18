@@ -1,6 +1,7 @@
 \BOOKMARK [1][-]{section*.6}{INTRODUCCI\323N}{}% 1
 \BOOKMARK [1][-]{section*.7}{RESE\321A HIST\323RICA}{}% 2
 \BOOKMARK [1][-]{section*.8}{PLANTEAMIENTO DEL PROBLEMA}{}% 3
+<<<<<<< HEAD
 \BOOKMARK [2][-]{subsection.2.1}{Planteamiento del problema}{section*.8}% 4
 \BOOKMARK [1][-]{section*.9}{MARCO TE\323RICO}{}% 5
 \BOOKMARK [2][-]{subsection.3.1}{ihafoihsaf}{section*.9}% 6
@@ -13,3 +14,21 @@
 \BOOKMARK [1][-]{section*.15}{RECOMENDACIONES}{}% 13
 \BOOKMARK [1][-]{section*.16}{BIBLIOGRAF\315A}{}% 14
 \BOOKMARK [1][-]{section*.17}{AP\311NDICE}{}% 15
+=======
+\BOOKMARK [2][-]{subsection.0.1}{Planteamiento del problema}{section*.8}% 4
+\BOOKMARK [2][-]{subsection.0.2}{Objetivos General}{section*.8}% 5
+\BOOKMARK [2][-]{subsection.0.3}{Objetivos Espec\355ficos}{section*.8}% 6
+\BOOKMARK [1][-]{section*.9}{MARCO TE\323RICO}{}% 7
+\BOOKMARK [2][-]{subsection.0.4}{SCADA}{section*.9}% 8
+\BOOKMARK [2][-]{subsection.0.5}{Software}{section*.9}% 9
+\BOOKMARK [2][-]{subsection.0.6}{Interfaz}{section*.9}% 10
+\BOOKMARK [2][-]{subsection.0.7}{}{section*.9}% 11
+\BOOKMARK [1][-]{section*.10}{MARCO METODOL\323GICO}{}% 12
+\BOOKMARK [1][-]{section*.11}{PROCESO DE AN\301LISIS Y C\301LCULO}{}% 13
+\BOOKMARK [1][-]{section*.12}{RESULTADOS}{}% 14
+\BOOKMARK [1][-]{section*.13}{AN\301LISIS DE RESULTADOS}{}% 15
+\BOOKMARK [1][-]{section*.14}{CONCLUSIONES}{}% 16
+\BOOKMARK [1][-]{section*.15}{RECOMENDACIONES}{}% 17
+\BOOKMARK [1][-]{section*.16}{BIBLIOGRAF\315A}{}% 18
+\BOOKMARK [1][-]{section*.17}{AP\311NDICE}{}% 19
+>>>>>>> master
