@@ -6,5 +6,52 @@
     \textbf{MARCO METODOLÓGICO}
 \end{center}
 \setcounter{subsection}{0}
-\subsection{}
+
+\subsection{Identificación del sistema}
+    Se plantea el monitoreo de un edificio el cual es alimentado con tres fases desde la empresa que suministra energía. 
+    A través de un sistema SCADA mostrar variables
+    asociadas al consumo generando un histórico que permita obtener valores, en consecuencia obtener
+    a partir de este el costo asociado. Las variables del sistema a medir son las siguientes:
+    \subsubsection{Variables del sistema}
+    \begin{enumerate}
+        \item \textbf{Edificio residencial:}
+
+        \begin{itemize}
+            \item \textbf{Tensión fase neutro:} Es la tensión suministrada desde el proveedor a la estructura con tres lineas fase
+            neutro.
+            \item \textbf{Tensión fase neutro promedio:} Es la tensión obtenida al sacar el promedio de las tensiones fase neutro.
+            \item \textbf{Tensión fase fase:} Es el valor que se obtiene al medir la tensión entre dos fases.
+            \item \textbf{Tensión fase fase prmedio:} Es el valor que se obtiene al obtener el promedio de la tensión fase fase medida anteriormente.
+            \item \textbf{Corriente de línea:} Es la corriente suministrada por la central a través de una de las fases, monitorear
+            este dato nos puede arrojar que sucede al momento de ocurrir una falla en el circuito.
+            \item \textbf{Demanda instantánea activa:} Es la potencia consumida en una de las lineas que provienen desde el 
+            distribuidor de energía por norma esta son habitualmente 3 fases generando la potencia activa de la linea uno, dos 
+            y tres.
+            \item \textbf{Demanda instantánea  activa total:} Se requiere medir y generar un histórico de la potencia instantánea consumida 
+            por el conjunto completo, este valor está asociado a la potencia consumida total el cual se define como la suma de 
+            la potencia consumida en las 3 fases que alimenta a la infraestructura. 
+            \item \textbf{Factor de potencia:} Esta relación nos indica que la corriente consumida se consume e potencia activa 
+            manteniendo la corriente en valores calculados.
+            \item \textbf{Máxima demanda:} Es la máxima potencia consumida durante un periodo de tiempo.
+            \item \textbf{Energía total:} Es la energía consumida referida por defecto a la anterior fecha de pago, con la posibilidad 
+            de obtener en función de otro periodo de tiempo definido por el usuario. 
+            \item \textbf{Costo total:} Es el costo de la energía consumida desde la anterior fecha de corte.
+        \end{itemize}
+        Estas variables tienen valores variables instantáneos, es posible generar un historial a través al almacenarlos en una 
+        base de datos para mostrarlos en forma grafica.
+
+        \item \textbf{Valores de un apartamento:}
+        
+        \begin{itemize}
+            \item \textbf{Tensión de linea promedio:} Se obtiene al calcular el promedio de las tensiones fase neutro que recibe el inmueble.
+            \item \textbf{Demanda activa total:} Es el consumo intantaneo de potencia activa consumida por el inmueble.
+            \item \textbf{Energía consumida:} Es la energía consumida por el inmueble durante un periodo de tiempo.
+            \item \textbf{Costo acumulado:} Es el costo asociado a la energía consumida.
+            \item \textbf{Proxima fecha de pago:} Es la fecha asociada a la proxima fecha de corte de la energía consumida.
+            \item \textbf{Estado de conexón:} Valor booleano asociado a la conexión o desconexión del servicio de energía.
+        \end{itemize}
+    \end{enumerate}
+\subsection{Diseño de la estructura de la interfaz}
+    Para el diseño se emplea la herramienta de software adobe XD esta herramienta permite diseñar la interfaz grafica y realizar
+    maquetado sin necesidad de programarlo, 
 \newpage
