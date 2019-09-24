@@ -6,15 +6,26 @@
 \BOOKMARK [2][-]{subsection.2.3}{Objetivos Espec\355ficos}{section*.8}% 6
 \BOOKMARK [1][-]{section*.9}{MARCO TE\323RICO}{}% 7
 \BOOKMARK [2][-]{subsection.3.1}{SCADA}{section*.9}% 8
-\BOOKMARK [2][-]{subsection.3.2}{Software}{section*.9}% 9
-\BOOKMARK [2][-]{subsection.3.3}{Interfaz}{section*.9}% 10
-\BOOKMARK [2][-]{subsection.3.4}{}{section*.9}% 11
-\BOOKMARK [1][-]{section*.10}{MARCO METODOL\323GICO}{}% 12
-\BOOKMARK [2][-]{subsection.4.1}{iausciubsaciub}{section*.10}% 13
-\BOOKMARK [1][-]{section*.11}{PROCESO DE AN\301LISIS Y C\301LCULO}{}% 14
-\BOOKMARK [1][-]{section*.12}{RESULTADOS}{}% 15
-\BOOKMARK [1][-]{section*.13}{AN\301LISIS DE RESULTADOS}{}% 16
-\BOOKMARK [1][-]{section*.14}{CONCLUSIONES}{}% 17
-\BOOKMARK [1][-]{section*.15}{RECOMENDACIONES}{}% 18
-\BOOKMARK [1][-]{section*.16}{BIBLIOGRAF\315A}{}% 19
-\BOOKMARK [1][-]{section*.17}{AP\311NDICE}{}% 20
+\BOOKMARK [2][-]{subsection.3.2}{Servidor:}{section*.9}% 9
+\BOOKMARK [2][-]{subsection.3.3}{Framework:}{section*.9}% 10
+\BOOKMARK [2][-]{subsection.3.4}{Protocolos:}{section*.9}% 11
+\BOOKMARK [2][-]{subsection.3.5}{Escalabilidad:}{section*.9}% 12
+\BOOKMARK [2][-]{subsection.3.6}{Base de datos:}{section*.9}% 13
+\BOOKMARK [2][-]{subsection.3.7}{Internet de las cosas \(IoT\):}{section*.9}% 14
+\BOOKMARK [2][-]{subsection.3.8}{Cloud:}{section*.9}% 15
+\BOOKMARK [2][-]{subsection.3.9}{Interface:}{section*.9}% 16
+\BOOKMARK [2][-]{subsection.3.10}{API:}{section*.9}% 17
+\BOOKMARK [2][-]{subsection.3.11}{Mango:}{section*.9}% 18
+\BOOKMARK [2][-]{subsection.3.12}{MangoES:}{section*.9}% 19
+\BOOKMARK [2][-]{subsection.3.13}{Dise\361o UX/UI:}{section*.9}% 20
+\BOOKMARK [1][-]{section*.10}{MARCO METODOL\323GICO}{}% 21
+\BOOKMARK [2][-]{subsection.4.1}{Identificaci\363n del sistema}{section*.10}% 22
+\BOOKMARK [3][-]{subsubsection.4.1.1}{Variables del sistema}{subsection.4.1}% 23
+\BOOKMARK [2][-]{subsection.4.2}{Dise\361o de la estructura de la interfaz}{section*.10}% 24
+\BOOKMARK [1][-]{section*.11}{PROCESO DE AN\301LISIS Y C\301LCULO}{}% 25
+\BOOKMARK [1][-]{section*.12}{RESULTADOS}{}% 26
+\BOOKMARK [1][-]{section*.13}{AN\301LISIS DE RESULTADOS}{}% 27
+\BOOKMARK [1][-]{section*.14}{CONCLUSIONES}{}% 28
+\BOOKMARK [1][-]{section*.15}{RECOMENDACIONES}{}% 29
+\BOOKMARK [1][-]{section*.16}{BIBLIOGRAF\315A}{}% 30
+\BOOKMARK [1][-]{section*.18}{AP\311NDICE}{}% 31

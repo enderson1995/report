@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2019/dev/Debian) (preloaded format=pdflatex 2019.9.13)  17 SEP 2019 21:47
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2019/dev/Debian) (preloaded format=pdflatex 2019.9.13)  24 SEP 2019 11:32
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -102,6 +102,9 @@ File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
 ))
 \Gin@req@height=\dimen112
 \Gin@req@width=\dimen113
+) (/usr/share/texlive/texmf-dist/tex/latex/tools/enumerate.sty
+Package: enumerate 2015/07/23 v3.00 enumerate extensions (DPC)
+\@enLab=\toks20
 ) (/usr/share/texlive/texmf-dist/tex/latex/subfigure/subfigure.sty
 Package: subfigure 2002/03/15 v2.1.5 subfigure package
 \subfigtopskip=\skip46
@@ -142,18 +145,18 @@ Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 \Gm@layoutheight=\dimen121
 \Gm@layouthoffset=\dimen122
 \Gm@layoutvoffset=\dimen123
-\Gm@dimlist=\toks20
+\Gm@dimlist=\toks21
 ) (/usr/share/texlive/texmf-dist/tex/latex/float/float.sty
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \c@float@type=\count107
-\float@exts=\toks21
+\float@exts=\toks22
 \float@box=\box29
-\@float@everytoks=\toks22
+\@float@everytoks=\toks23
 \@floatcapt=\box30
 ) (/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
 Package: inputenc 2018/08/11 v1.3c Input encoding file
-\inpenc@prehook=\toks23
-\inpenc@posthook=\toks24
+\inpenc@prehook=\toks24
+\inpenc@posthook=\toks25
 ) (/usr/share/texlive/texmf-dist/tex/latex/setspace/setspace.sty
 Package: setspace 2011/12/19 v6.7a set line spacing
 ) (/usr/share/texlive/texmf-dist/tex/generic/babel/babel.sty
@@ -169,7 +172,7 @@ File: babel.def 2018/11/13 3.27 Babel common definitions
  (/usr/share/texlive/texmf-dist/tex/generic/babel/txtbabel.def)
 \bbl@dirlevel=\count109
 )
-\es@quottoks=\toks25
+\es@quottoks=\toks26
 \es@quotdepth=\count110
 Package babel Info: Making " an active character on input line 561.
 Package babel Info: Making . an active character on input line 662.
@@ -485,7 +488,7 @@ Package textcomp Info: Setting ptmj sub-encoding to TS1/4 on input line 409.
 Package: enumitem 2019/02/04 v3.8 Customized lists
 \labelindent=\skip57
 \enit@outerparindent=\dimen139
-\enit@toks=\toks26
+\enit@toks=\toks27
 \enit@inbox=\box57
 \enit@count@id=\count131
 \enitdp@description=\count132
@@ -514,8 +517,8 @@ Package: eso-pic 2018/04/12 v2.0h eso-pic (RN)
 File: pppdftex.def 2017/10/31 v0.5l Pdfpages driver for pdfTeX (AM)
 )
 \AM@pagebox=\box58
-\AM@global@opts=\toks27
-\AM@toc@title=\toks28
+\AM@global@opts=\toks28
+\AM@toc@title=\toks29
 \c@AM@survey=\count136
 \AM@templatesizebox=\box59
 ) (/usr/share/texlive/texmf-dist/tex/latex/beamer/multimedia.sty
@@ -532,7 +535,7 @@ LaTeX Warning: Command \@arrayparboxrestore  has changed.
 Package: everysel 2011/10/28 v1.2 EverySelectfont Package (MS)
 ) (/usr/share/texlive/texmf-dist/tex/latex/footmisc/footmisc.sty
 Package: footmisc 2011/06/06 v5.5b a miscellany of footnote facilities
-\FN@temptoken=\toks29
+\FN@temptoken=\toks30
 \footnotemargin=\dimen144
 \c@pp@next@reset=\count138
 Package footmisc Info: Declaring symbol style bringhurst on input line 855.
@@ -594,12 +597,12 @@ File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 \scratchbox=\box60
 \nofMPsegments=\count140
 \nofMParguments=\count141
-\everyMPshowfont=\toks30
+\everyMPshowfont=\toks31
 \MPscratchCnt=\count142
 \MPscratchDim=\dimen146
 \MPnumerator=\count143
 \makeMPintoPDFobject=\count144
-\everyMPtoPDFconversion=\toks31
+\everyMPtoPDFconversion=\toks32
 ) (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
  (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/grfext.sty
@@ -692,14 +695,14 @@ File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 LaTeX Font Info:    Try loading font information for U+msb on input line 5.
  (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-))
+) [4])
 \tf@toc=\write4
 \openout4 = `main.toc'.
 
- [4] (/home/enderson/informe pasantia/nomenclatura.tex
+ [5] (/home/enderson/informe pasantia/nomenclatura.tex
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14.4> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 9.
- [5]) (/home/enderson/informe pasantia/introduccion.texpdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
+ [6]) (/home/enderson/informe pasantia/introduccion.texpdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.7 \newpage
@@ -738,7 +741,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has b
                    \relax 
 l.41 \end{center}
                   [2]
-<Organigrama_type_07082019.png, id=141, 867.4809pt x 562.5015pt>
+<Organigrama_type_07082019.png, id=201, 867.4809pt x 562.5015pt>
 File: Organigrama_type_07082019.png Graphic file (type png)
 <use Organigrama_type_07082019.png>
 Package pdftex.def Info: Organigrama_type_07082019.png  used on input line 46.
@@ -768,26 +771,113 @@ Underfull \hbox (badness 10000) in paragraph at lines 23--27
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 28--30
+Underfull \hbox (badness 10000) in paragraph at lines 33--35
 
  []
 
 pdfTeX warning (ext4): destination with the same identifier (name{page.4}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.35     E
-          n zonas residenciales se requiere que la empresa que suministra la... [4]
-Underfull \hbox (badness 10000) in paragraph at lines 35--39
+l.35 
+      [4]
+Underfull \hbox (badness 10000) in paragraph at lines 40--44
 
  []
 
 pdfTeX warning (ext4): destination with the same identifier (name{page.5}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.57 \newpage
-              [5]) (/home/enderson/informe pasantia/cap3.tex [6]) (/home/enderson/informe pasantia/cap4.tex [7]) (/home/enderson/informe pasantia/cap5.tex [8]) (/home/enderson/informe pasantia/cap6.tex [9]) (/home/enderson/informe pasantia/cap7.tex [10]) (/home/enderson/informe pasantia/cap8.tex [11]) (/home/enderson/informe pasantia/cap9.tex [12]) (/home/enderson/informe pasantia/cap10.tex [13]) (/home/enderson/informe pasantia/apendice.tex)
+l.62 \newpage
+              [5]) (/home/enderson/informe pasantia/cap3.tex
+Underfull \hbox (badness 10000) in paragraph at lines 11--21
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 22--27
+
+ []
+
+<EstructuraSCADA.png, id=216, 867.24pt x 541.02126pt>
+File: EstructuraSCADA.png Graphic file (type png)
+<use EstructuraSCADA.png>
+Package pdftex.def Info: EstructuraSCADA.png  used on input line 33.
+(pdftex.def)             Requested size: 346.88986pt x 216.40466pt.
+pdfTeX warning (ext4): destination with the same identifier (name{page.6}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.37 
+      [6] [7 </home/enderson/informe pasantia/EstructuraSCADA.png>] [8]
+Underfull \hbox (badness 10000) in paragraph at lines 63--65
+
+ []
+
+LaTeX Font Info:    Try loading font information for U+lasy on input line 68.
+(/usr/share/texlive/texmf-dist/tex/latex/base/ulasy.fd
+File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
+)
+Underfull \hbox (badness 10000) in paragraph at lines 70--71
+
+ []
+
+[9]
+Overfull \hbox (0.53972pt too wide) in paragraph at lines 79--80
+[]\OT1/ptm/b/n/12 Anal[]^^Pti-ca in-te-gra-da: \OT1/ptm/m/n/12 man-go pro-por-cio-na va-rias in-ter-fa-ces web pa-ra que los usua-
+ []
+
+[10] [11]) (/home/enderson/informe pasantia/cap4.tex [12] [13] [14]) (/home/enderson/informe pasantia/cap5.tex [15]) (/home/enderson/informe pasantia/cap6.tex [16]) (/home/enderson/informe pasantia/cap7.tex [17]) (/home/enderson/informe pasantia/cap8.tex [18]) (/home/enderson/informe pasantia/cap9.tex [19]) (/home/enderson/informe pasantia/cap10.tex
+Underfull \hbox (badness 10000) in paragraph at lines 10--11
+[]\OT1/ptm/m/n/12 "SCADA", Es.wikipedia.org, 2019. [On-li-ne]. Avai-la-ble:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 12--13
+[]\OT1/ptm/m/n/12 "MANGOES", Sta-tic1.squarespace.com, 2019. [On-li-ne]. Avai-la-ble:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 18--19
+[]\OT1/ptm/m/n/12 "Servidor web", Es.wikipedia.org, 2019. [On-li-ne]. Avai-la-ble:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 24--25
+[]\OT1/ptm/m/n/12 "Base de da-tos", Es.wikipedia.org, 2019. [On-li-ne]. Avai-la-ble:
+ []
+
+[20]
+Underfull \hbox (badness 5652) in paragraph at lines 34--35
+[][]\OT1/ptm/m/n/12 omputaci[]on en la nu-be", Es.wikipedia.org, 2019. [On-li-ne]. Avai-la-ble:
+ []
+
+
+Underfull \hbox (badness 2644) in paragraph at lines 38--39
+[]\OT1/ptm/m/n/12 "?`Qu[]e es una API y pa-ra qu[]e sir-ve?", abc, 2019. [On-li-ne]. Avai-la-ble:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 38--39
+\OT1/ptm/m/n/12 https://www.abc.es/tecnologia/consultorio/20150216/abci--201502132105.html.
+ []
+
+
+Underfull \hbox (badness 4217) in paragraph at lines 42--43
+[]\OT1/ptm/m/n/12 Villalobos, M. (2019). .[]periencia de Usua-rio: ?`Qu[]e es y c[]omo con-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 42--43
+\OT1/ptm/m/n/12 ver-tir-se en UX De-sig-ner?". Re-trie-ved 24 Sep-tem-ber 2019, from
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 42--43
+\OT1/ptm/m/n/12 https://medium.com/repensareducativo/experiencia-de-usuario-qu$ $%C3$ $%A9-es-
+ []
+
+[21]) (/home/enderson/informe pasantia/apendice.tex)
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 139.
- [14]
+ [22]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 139.
  (/home/enderson/informe pasantia/main.aux
 LaTeX Info: Redefining \. on input line 24.
@@ -796,7 +886,7 @@ LaTeX Info: Redefining \% on input line 24.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 139.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 139.
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: C585834F7642EF0AEF56E2D236819DA7;1177.
+(rerunfilecheck)             Checksum: 77295EC0F7E179F8AE0BF6322D36468E;1951.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 139.
  )
 (\end occurred inside a group at level 1)
@@ -804,18 +894,18 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 139.
 ### semi simple group (level 1) entered at line 29 (\begingroup)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 9669 strings out of 492615
- 142223 string characters out of 6131390
- 256794 words of memory out of 5000000
- 13325 multiletter control sequences out of 15000+600000
- 15762 words of font info for 42 fonts, out of 8000000 for 9000
+ 9793 strings out of 492615
+ 143992 string characters out of 6131390
+ 259692 words of memory out of 5000000
+ 13402 multiletter control sequences out of 15000+600000
+ 17453 words of font info for 45 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 28i,7n,31p,273b,1586s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb>
-Output written on "/home/enderson/informe pasantia/main.pdf" (19 pages, 185014 bytes).
+ 28i,8n,31p,718b,1839s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/latxfont/lasy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb>
+Output written on "/home/enderson/informe pasantia/main.pdf" (28 pages, 291098 bytes).
 PDF statistics:
- 218 PDF objects out of 1000 (max. 8388607)
- 189 compressed objects within 2 object streams
- 41 named destinations out of 1000 (max. 500000)
- 170 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 360 PDF objects out of 1000 (max. 8388607)
+ 317 compressed objects within 4 object streams
+ 80 named destinations out of 1000 (max. 500000)
+ 263 words of extra memory for PDF output out of 10000 (max. 10000000)
 
