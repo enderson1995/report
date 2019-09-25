@@ -55,6 +55,56 @@
 
     En el diseño previo se empleo Adobe XD un software enfocado en el desarrolo UX/UI sin ser requerido el desarrollo del producto para
     poder visualizar la interfaz y la interacción con el usuario. Teniendo en cuenta el tamaño en px disponible en el software de MANGO AUTOMATION
-    empleando herramientas de desarrollo en el buscador Chrome obteniendo de allí los colores bases y los tamaños estandares para el dieño.
+    empleando herramientas de desarrollo en el buscador Chrome obteniendo de allí los colores bases y los tamaños estandares para el dieño.\\
 
+    Se diseñan las siguientes insterfaces:\\
+    \begin{itemize}
+
+        \item \textbf{Overview:} Se plantea una interfaz (Figura \ref{figInterfazOverview}) en la cual se tiene la ubicación geografica de los edificios
+        en monitoreo donde se presenta la información del nombre del edificio, demanda instantánea, Energía total acumulada y el costo total asociado al 
+        consumo de energía consumida. Pensando en el monitoreo de distintos edificios permitiendo hacer uso de la plataforma en la administración de
+        distintos condominios por parte de una empresa.
+
+        \begin{figure}[H]
+            \centering
+                \includegraphics[scale=0.2]
+                {overview.pdf}
+            \caption{Interfaz overview}
+            \label{figInterfazOverview}
+        \end{figure} 
+        
+        \item \textbf{Building:} Se plantea una interfaz (Figura \ref{figInterfazBuilding}) donde se hace enfoque a cuatro variables Demanda Instantánea, Demanda Máxima, Energía Total y 
+        Costo total enfocándose en parametros claves de costo y consumo.
+        
+        \begin{figure}[H]
+            \centering
+                \includegraphics[scale=0.2]
+                {building.pdf}
+            \caption{Interfaz building}
+            \label{figInterfazBuilding}
+        \end{figure}
+
+        Se diseñan dos bloques de información un primer asociado a las metricas instantánea con valores que permiten el monitoreo con valores de tensión, corriente,
+        potencia, factor de potencia y frecuencia de la red y un segundo de bloque en donde se plantean graficas de la data obtenida a través del tiempo.
+        Se estructura de tal manera que a primera vista con fines de administración financiera se obtiene la data importante para tal actividad, en caso de requerir
+        monitoreo tecnico se presenta la información requerida para una rapida toma de decisiones o un analísis del sistema a través del tiempo.
+ 
+        \item \textbf{Apartment:} Se plantea una interfaz (Figura \ref{figInterfazApartment}) el cual esta pensado para el usuario final y datos requeridos
+        para estudios tecnicos por parte de un tecnico. Se presentan datos a la energía consumida, el costo asociado, la próxima fecha de pago, 
+        y pagos retrasados, valores económicos importantes para el usuario que paga la cuenta de energía electrica además de valores que permitan 
+        realizar estudios en caso de ser requeridos.
+
+        \begin{figure}[H]
+            \centering
+                \includegraphics[scale=0.2]
+                {apartment.pdf}
+            \caption{Interfaz apartament}
+            \label{figInterfazApartment}
+        \end{figure}
+    \end{itemize}
+\subsection{Definición de Variables en plataforma de Mango AUTOMATION}
+    La plataforma permite definir variables con el protocolo de comunicación a establecer, en nuetro caso se emplean Virtual Data Point 
+    y meta Data source, la primera para generar de forma aleatoria da
+\subsection{Desarrollo de la interfaz}
+    
 \newpage
